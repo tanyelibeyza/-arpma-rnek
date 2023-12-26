@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\bin\Debug\çarpma-örnegi.exe.config
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\bin\Debug\çarpma-örnegi.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\bin\Debug\çarpma-örnegi.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\obj\Debug\çarpma-örnegi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\obj\Debug\çarpma-örnegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\obj\Debug\çarpma_örnegi.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\obj\Debug\çarpma_örnegi.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\obj\Debug\çarpma-örnegi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\obj\Debug\çarpma-örnegi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\obj\Debug\çarpma-örnegi.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\çarpma-örnegi\çarpma-örnegi\obj\Debug\çarpma-örnegi.pdb
